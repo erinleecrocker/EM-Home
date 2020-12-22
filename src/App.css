@@ -4,6 +4,8 @@ body {
   background-size: cover;
   font-family: 'Noto Sans JP', sans-serif !important;
   font-style: Regular 400;
+}
 
-
+.container{
+  margin-bottom: 60px;
 }

@@ -5,3 +5,7 @@
 .navbar-brand-name{
     margin-left: 50px;
 }
+
+#large-image{
+    max-width: 150px;
+}

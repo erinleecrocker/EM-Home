@@ -3,6 +3,7 @@ import './App.css';
 import Navbar from './components/Navbar/Navbar';
 import ProductTitle from './components/ProductTitle/ProductTitle';
 import Footer from './components/Footer/Footer';
+import LargeCard from './components/LargeCard/LargeCard';
 
 function App() {
   return (
@@ -11,8 +12,9 @@ function App() {
       <Navbar/>
       <div className="container">
         <ProductTitle/>
-        <Footer/>
+        <LargeCard/>
       </div>
+      <Footer/>
       </>
     </div>
   );
