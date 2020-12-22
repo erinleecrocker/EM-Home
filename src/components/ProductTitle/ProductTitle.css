@@ -1,0 +1,13 @@
+#main-logo{
+    max-width: 150px;
+}
+
+.color-one{
+    color: white;
+}
+
+#product-title{
+    font-size: 40pt;
+    color: #00FFFF;
+    font-style: Bold !important;
+}
